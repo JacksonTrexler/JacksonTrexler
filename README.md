@@ -1,5 +1,5 @@
 # Hi, I’m @JacksonTrexler!
-- Recently graduated from the University of Cincinnati with Bachelor's degree in Computer Science!
-- Broadly interested in software and web application development, games, and emerging technologies
-- Looking for entry level software devleopment positions
+- University of Cincinnati CS graduate
+- Developing my skills further in general web development, Java, and C# Frameworks
+- Also interested in game development, right now working on a few top-down projects utilizing Godot / Unity
 - Reach me at jtrexler25@gmail.com!
